@@ -1,0 +1,18 @@
+{
+  "name": "basic-node-api-server",
+  "version": "1.0.0",
+  "description": "Basic Node CRUD api",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": "git@github.com:royledford/basic-node-api-server.git",
+  "author": "Roy Ledford <bluesixty@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
